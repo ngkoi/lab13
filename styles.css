@@ -1,0 +1,18 @@
+.carousel-item {
+  height: 500px;
+}
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://fastly.picsum.photos/id/866/1920/1080.jpg?hmac=dNBuPEp10RySTqlc5EpGw7QyrFIpBd2X88r1Ixla7pw");
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://fastly.picsum.photos/id/29/4000/2670.jpg?hmac=rCbRAl24FzrSzwlR5tL-Aqzyu5tX_PA95VJtnUXegGU");
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://fastly.picsum.photos/id/27/3264/1836.jpg?hmac=p3BVIgKKQpHhfGRRCbsi2MCAzw8mWBCayBsKxxtWO8g");
+}
